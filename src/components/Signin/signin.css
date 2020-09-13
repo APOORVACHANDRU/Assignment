@@ -1,0 +1,34 @@
+
+.divform {
+    border-radius: 5px;
+    background-color: #84CEEB;
+    padding: 10px;
+    border-style: solid;
+    width:400px;
+    margin-left: 300px;
+    height:300px;
+    margin-top: 200px;
+    position:relative;
+
+  }
+
+  .startbutton{
+    margin-top: 2rem;
+     background-color: #8860d0; 
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 2px 1px;
+  cursor: pointer;
+  }
+
+ .common{
+height:30px;
+width:300px;
+margin-top: 2rem;
+  }
+  

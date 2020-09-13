@@ -1,0 +1,80 @@
+.grid-container {
+    display: grid;
+    grid-template-areas:
+    'menu menu main main main right right'
+  }
+
+  .grid-container > div {
+    background-color: #C1C8E4;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+.item2 { grid-area: menu;}
+.item3 { grid-area: main;}
+.item4 { grid-area: right;}
+
+.grid-containergroup {
+    display: grid;
+    grid-template-areas:
+    'menugroup maingroup maingroup maingroup rightgroup'
+  }
+
+  .grid-containergroup > div {
+    background-color: #84CEEB;
+    text-align: center;
+    padding: 15px 0;
+    font-style: oblique;
+    font-size: 20px;
+  }
+.item2group { grid-area: menugroup;}
+.item3group { grid-area: maingroup;}
+.item4group { grid-area: rightgroup; }
+
+* {
+  box-sizing: border-box;
+}
+.image{
+    max-width: 122.4px;
+    max-height: 122.4px;
+    width: auto;
+    height: auto;
+}
+
+.group{
+    border:1px solid grey;
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #8860d0;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}

@@ -1,0 +1,221 @@
+[{
+	"category_name": "BALANCES",
+	"display_name": "Balances",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "BORE_GAUGES",
+	"display_name": "Bore Gauges",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "CALIPERS",
+	"display_name": "Calipers",
+	"description": null,
+	"image_uri": "https://www.cubyt.io/images/categories/calipers-black.svg",
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "DEPTH_GAUGES",
+	"display_name": "Depth Gauges",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "FORCE_GAUGES",
+	"display_name": "Force Gauges",
+	"description": null,
+	"image_uri": "https://www.cubyt.io/images/categories/force_gauges-black.svg",
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "HEIGHT_GAUGES",
+	"display_name": "Height Gauges",
+	"description": null,
+	"image_uri": "https://www.cubyt.io/images/categories/height_gauges-black.svg",
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "HYGROMETERS",
+	"display_name": "Hygrometers",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "INDICATORS",
+	"display_name": "Indicators",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "LENGTH_STANDARDS",
+	"display_name": "Length Standards",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "MICROMETERS",
+	"display_name": "Micrometers",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "MULTIMETERS",
+	"display_name": "Multimeters",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "PANEL_METERS",
+	"display_name": "Panel Meters",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "PRESSURE_GAUGES",
+	"display_name": "Pressure Gauges",
+	"description": null,
+	"image_uri": "https://www.cubyt.io/images/categories/pressure_gauges-black.svg",
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "PURPOSE_DESIGNED_SCALES",
+	"display_name": "Purpose Designed Scales",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "SCALES",
+	"display_name": "Scales",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "STOPWATCHES",
+	"display_name": "Stopwatches",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "SURFACE_PLATES",
+	"display_name": "Surface Plates",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "TACHOMETERS/STROBOSCOPES",
+	"display_name": "Tachometers/Stroboscopes",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "TEST_INDICATORS",
+	"display_name": "Test Indicators",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}, {
+	"category_name": "THERMOHYGROMETERS",
+	"display_name": "Thermohygrometers",
+	"description": null,
+	"image_uri": null,
+	"spec_parameters": [null],
+	"attributes": {
+		"null": {
+			"null": null
+		}
+	}
+}]

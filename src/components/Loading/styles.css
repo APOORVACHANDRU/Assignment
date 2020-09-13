@@ -1,0 +1,20 @@
+.loaderStyle {
+  height: 80px;
+  width: 80px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -ms-flex-direction: column;
+  -ms-justify-content: center;
+  -ms-align-items: center;
+}
+
+.labelLoadingStyle {
+  font-size: 12px;
+  color: #9a9a9a;
+  margin: 5px 0 0 0;
+  padding: 0;
+}
